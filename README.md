@@ -10,7 +10,7 @@ Para este video usaremos las siguientes librerias:
 - geopandas: Librería que permite manipular datos espaciales de tipo vector
 - mapclassify: Librería que permite clasificar de forma discreta a los datos espaciales para faciliar su visualización.
 
-Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de youtube 🎥.
+Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de Youtube 🎥.
 
 🚀 Por último,¡No olvides suscribirte a mi canal de YouTube y seguirme en TikTok para más contenido relacionado con la geografía computacional!
 
