@@ -11,6 +11,7 @@ Para este video usaremos las siguientes librerias:
 - mapclassify: Librería que permite clasificar de forma discreta a los datos espaciales para faciliar su visualización.
 
 Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de Youtube 🎥.
+[![Watch the video](https://img.youtube.com/vi/aM93Jn1uD-I/0.jpg)](https://youtu.be/aM93Jn1uD-I?si=tnOLDjmW-TkOb3U9)
 
 🚀 Por último,¡No olvides suscribirte a mi canal de YouTube y seguirme en TikTok para más contenido relacionado con la geografía computacional!
 
