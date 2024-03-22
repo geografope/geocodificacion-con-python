@@ -1,6 +1,6 @@
 <img src='img/banner.png'>
 
-Este repositorio 📁 contiene un script📜 desarrollado en python que te permitirá  realizar el proceso de geocodificación directa e indirecta a través de un cuaderno de jupyter.
+Este repositorio 📁 contiene un script📜 desarrollado en python que te permitirá  realizar el proceso de geocodificación directa o inverso a través de un cuaderno de jupyter.
 
 *"📍 La geocodificación es un geoproceso que convierte direcciones o  información de ubicaciones en datos espaciales, permitiendo su visualización a través de puntos en un mapa 🗺️."*
 
