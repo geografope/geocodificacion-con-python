@@ -1,6 +1,6 @@
 <img src='img/banner.png'>
 
-Este repositorio 📁 contiene un script📜 desarrollado en python que te permitirá  realizar el proceso de geocodificación directa o inverso a través de un cuaderno de jupyter.
+Este repositorio 🗂️ contiene un script📜 desarrollado en python que te permitirá  realizar el proceso de geocodificación directa o inverso a través de un cuaderno de jupyter.
 
 *"📍 La geocodificación es un geoproceso que convierte direcciones o  información de ubicaciones en datos espaciales, permitiendo su visualización a través de puntos en un mapa 🗺️."*
 
@@ -15,7 +15,6 @@ Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de
 
 🚀 Por último,¡No olvides suscribirte a mi canal de YouTube y seguirme en TikTok para más contenido relacionado con la geografía computacional!
 
-### Referencias: 
- *- https://support.esri.com/en-us/gis-dictionary/geocoding*
-
- *- https://github.com/osm-search/Nominatim*
+## 🟢 Referencias: 
+ - *https://support.esri.com/en-us/gis-dictionary/geocoding*
+ - *https://github.com/osm-search/Nominatim*
