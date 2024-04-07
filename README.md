@@ -17,6 +17,6 @@ Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/youtube.svg' width=20 align='center'> https://www.youtube.com/@geografope
 
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/tiktok.svg' width=15 align='center'> https://www.tiktok.com/@geografope
-## 🟢 Referencias: 
+## 🟡 Referencias: 
  - *https://support.esri.com/en-us/gis-dictionary/geocoding*
  - *https://github.com/osm-search/Nominatim*
