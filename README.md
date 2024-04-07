@@ -13,7 +13,9 @@ Para este video usaremos las siguientes librerias:
 Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de Youtube 🎥.
 [![Watch the video](https://img.youtube.com/vi/aM93Jn1uD-I/0.jpg)](https://youtu.be/aM93Jn1uD-I?si=tnOLDjmW-TkOb3U9)
 
-🚀 Por último,¡No olvides suscribirte a mi canal de YouTube y seguirme en TikTok para más contenido relacionado con la geografía computacional!
+¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre. 🌟🌍 👇
+ - *https://www.youtube.com/@geografope*
+ - *https://github.com/geografope*
 
 ## 🟢 Referencias: 
  - *https://support.esri.com/en-us/gis-dictionary/geocoding*
